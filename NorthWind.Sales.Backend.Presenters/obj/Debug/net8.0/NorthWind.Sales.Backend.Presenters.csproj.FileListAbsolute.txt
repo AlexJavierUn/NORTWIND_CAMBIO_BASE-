@@ -1,0 +1,72 @@
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Backend.Presenters.deps.json
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Backend.Presenters.dll
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Backend.Presenters.pdb
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.dll
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Entities.dll
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.pdb
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Entities.pdb
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.csproj.AssemblyReference.cache
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.AssemblyInfoInputs.cache
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.AssemblyInfo.cs
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.csproj.CoreCompileInputs.cache
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.sourcelink.json
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWin.A115594D.Up2Date
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.dll
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\refint\NorthWind.Sales.Backend.Presenters.dll
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.pdb
+E:\Tecnologias y Desarrollo Web\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\ref\NorthWind.Sales.Backend.Presenters.dll
+C:\Users\Johan\OneDrive\Documentos\QUINTO SEMESTRE\TECNOLOGIAS Y DESARROLLO WEB\PROGRAMACION\nuevo northwind\NorthWind\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Backend.Presenters.deps.json
+C:\Users\Johan\OneDrive\Documentos\QUINTO SEMESTRE\TECNOLOGIAS Y DESARROLLO WEB\PROGRAMACION\nuevo northwind\NorthWind\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Backend.Presenters.dll
+C:\Users\Johan\OneDrive\Documentos\QUINTO SEMESTRE\TECNOLOGIAS Y DESARROLLO WEB\PROGRAMACION\nuevo northwind\NorthWind\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Backend.Presenters.pdb
+C:\Users\Johan\OneDrive\Documentos\QUINTO SEMESTRE\TECNOLOGIAS Y DESARROLLO WEB\PROGRAMACION\nuevo northwind\NorthWind\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.dll
+C:\Users\Johan\OneDrive\Documentos\QUINTO SEMESTRE\TECNOLOGIAS Y DESARROLLO WEB\PROGRAMACION\nuevo northwind\NorthWind\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Entities.dll
+C:\Users\Johan\OneDrive\Documentos\QUINTO SEMESTRE\TECNOLOGIAS Y DESARROLLO WEB\PROGRAMACION\nuevo northwind\NorthWind\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.pdb
+C:\Users\Johan\OneDrive\Documentos\QUINTO SEMESTRE\TECNOLOGIAS Y DESARROLLO WEB\PROGRAMACION\nuevo northwind\NorthWind\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Entities.pdb
+C:\Users\Johan\OneDrive\Documentos\QUINTO SEMESTRE\TECNOLOGIAS Y DESARROLLO WEB\PROGRAMACION\nuevo northwind\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.csproj.AssemblyReference.cache
+C:\Users\Johan\OneDrive\Documentos\QUINTO SEMESTRE\TECNOLOGIAS Y DESARROLLO WEB\PROGRAMACION\nuevo northwind\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johan\OneDrive\Documentos\QUINTO SEMESTRE\TECNOLOGIAS Y DESARROLLO WEB\PROGRAMACION\nuevo northwind\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.AssemblyInfoInputs.cache
+C:\Users\Johan\OneDrive\Documentos\QUINTO SEMESTRE\TECNOLOGIAS Y DESARROLLO WEB\PROGRAMACION\nuevo northwind\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.AssemblyInfo.cs
+C:\Users\Johan\OneDrive\Documentos\QUINTO SEMESTRE\TECNOLOGIAS Y DESARROLLO WEB\PROGRAMACION\nuevo northwind\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.csproj.CoreCompileInputs.cache
+C:\Users\Johan\OneDrive\Documentos\QUINTO SEMESTRE\TECNOLOGIAS Y DESARROLLO WEB\PROGRAMACION\nuevo northwind\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.sourcelink.json
+C:\Users\Johan\OneDrive\Documentos\QUINTO SEMESTRE\TECNOLOGIAS Y DESARROLLO WEB\PROGRAMACION\nuevo northwind\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWin.A115594D.Up2Date
+C:\Users\Johan\OneDrive\Documentos\QUINTO SEMESTRE\TECNOLOGIAS Y DESARROLLO WEB\PROGRAMACION\nuevo northwind\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.dll
+C:\Users\Johan\OneDrive\Documentos\QUINTO SEMESTRE\TECNOLOGIAS Y DESARROLLO WEB\PROGRAMACION\nuevo northwind\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\refint\NorthWind.Sales.Backend.Presenters.dll
+C:\Users\Johan\OneDrive\Documentos\QUINTO SEMESTRE\TECNOLOGIAS Y DESARROLLO WEB\PROGRAMACION\nuevo northwind\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.pdb
+C:\Users\Johan\OneDrive\Documentos\QUINTO SEMESTRE\TECNOLOGIAS Y DESARROLLO WEB\PROGRAMACION\nuevo northwind\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\ref\NorthWind.Sales.Backend.Presenters.dll
+C:\Users\Johan\Documentos\NorthWind\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Backend.Presenters.deps.json
+C:\Users\Johan\Documentos\NorthWind\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Backend.Presenters.dll
+C:\Users\Johan\Documentos\NorthWind\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Backend.Presenters.pdb
+C:\Users\Johan\Documentos\NorthWind\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.dll
+C:\Users\Johan\Documentos\NorthWind\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Entities.dll
+C:\Users\Johan\Documentos\NorthWind\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.pdb
+C:\Users\Johan\Documentos\NorthWind\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Entities.pdb
+C:\Users\Johan\Documentos\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.csproj.AssemblyReference.cache
+C:\Users\Johan\Documentos\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johan\Documentos\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.AssemblyInfoInputs.cache
+C:\Users\Johan\Documentos\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.AssemblyInfo.cs
+C:\Users\Johan\Documentos\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.csproj.CoreCompileInputs.cache
+C:\Users\Johan\Documentos\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.sourcelink.json
+C:\Users\Johan\Documentos\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWin.A115594D.Up2Date
+C:\Users\Johan\Documentos\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.dll
+C:\Users\Johan\Documentos\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\refint\NorthWind.Sales.Backend.Presenters.dll
+C:\Users\Johan\Documentos\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.pdb
+C:\Users\Johan\Documentos\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\ref\NorthWind.Sales.Backend.Presenters.dll
+C:\Users\WIN11\Downloads\DEBER\NorthWind\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Backend.Presenters.deps.json
+C:\Users\WIN11\Downloads\DEBER\NorthWind\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Backend.Presenters.dll
+C:\Users\WIN11\Downloads\DEBER\NorthWind\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Backend.Presenters.pdb
+C:\Users\WIN11\Downloads\DEBER\NorthWind\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.dll
+C:\Users\WIN11\Downloads\DEBER\NorthWind\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Entities.dll
+C:\Users\WIN11\Downloads\DEBER\NorthWind\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.pdb
+C:\Users\WIN11\Downloads\DEBER\NorthWind\NorthWind.Sales.Backend.Presenters\bin\Debug\net8.0\NorthWind.Sales.Entities.pdb
+C:\Users\WIN11\Downloads\DEBER\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.csproj.AssemblyReference.cache
+C:\Users\WIN11\Downloads\DEBER\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN11\Downloads\DEBER\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.AssemblyInfoInputs.cache
+C:\Users\WIN11\Downloads\DEBER\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.AssemblyInfo.cs
+C:\Users\WIN11\Downloads\DEBER\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.csproj.CoreCompileInputs.cache
+C:\Users\WIN11\Downloads\DEBER\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.sourcelink.json
+C:\Users\WIN11\Downloads\DEBER\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWin.A115594D.Up2Date
+C:\Users\WIN11\Downloads\DEBER\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.dll
+C:\Users\WIN11\Downloads\DEBER\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\refint\NorthWind.Sales.Backend.Presenters.dll
+C:\Users\WIN11\Downloads\DEBER\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\NorthWind.Sales.Backend.Presenters.pdb
+C:\Users\WIN11\Downloads\DEBER\NorthWind\NorthWind.Sales.Backend.Presenters\obj\Debug\net8.0\ref\NorthWind.Sales.Backend.Presenters.dll
